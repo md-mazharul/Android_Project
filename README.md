@@ -5,4 +5,4 @@ In this project creating an android project. This project has a dog picture whoâ
 Please follow these steps to run this project in order to run the code correctly.
 Make sure to install Android Studio Giraffe | 2022.3.1. Run this code in your IDE.
 
-https://github.com/md-mazharul/Android_Project/assets/112292539/529cff45-0097-4d13-bf96-f71cba8a10b5
+https://github.com/md-mazharul/Android_Project/assets/112292539/d36342eb-727f-4823-b7f3-d719ceb3990f
